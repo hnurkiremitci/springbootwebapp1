@@ -1,0 +1,10 @@
+package com.hnur.publisher.entry.springguru.spring6webapplication;
+
+public class Spring6WebApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

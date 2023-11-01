@@ -1,0 +1,8 @@
+package com.hnur.publisher.entry.springguru.spring6webapplication.service;
+
+import guru.springframework.spring6webapp.domain.Book;
+
+public interface BookService {
+	Iterable<Book> findAll();
+
+}

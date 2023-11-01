@@ -1,0 +1,12 @@
+package com.hnur.publisher.entry.springguru.spring6webapplication;
+
+import org.springframework.boot.SpringApplication;
+
+public class Spring6WebApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Spring6WebApplication.class, args);
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.hnur.publisher.entry.springguru.domain;
+
+public class Book {
+
+}

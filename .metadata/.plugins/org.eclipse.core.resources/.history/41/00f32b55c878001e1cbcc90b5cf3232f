@@ -1,0 +1,5 @@
+package com.hnur.publisher.entry.springguru.spring6webapplication.service;
+
+public class BookServiceImpl {
+
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToMany"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.JoinTable"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.CommandLineRunner"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.repositories.AuthorRepository"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.repositories.BookRepository"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.domain.Book"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.domain.Author"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.spring6webapplication.repositories.AuthorRepository"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.spring6webapplication.repositories.BookRepository"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.spring6webapplication.domain.Author"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.spring6webapplication.domain.Book"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.spring6webapplication.repositories.PublisherRepository"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToOne"/>
+    <fullyQualifiedTypeName name="com.hnur.publisher.entry.springguru.spring6webapplication.domain.Publisher"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.OneToMany"/>
+</qualifiedTypeNameHistroy>
